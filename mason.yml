@@ -1,0 +1,11 @@
+os:
+  name: white-label-example
+  version: latest
+
+media:
+  bootanimation:
+    name: myanimation
+    version: latest
+  splash:
+    name: mysplash
+    version: latest
